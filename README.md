@@ -12,7 +12,7 @@
 
 Estudante de engenharia de software, que cria API's e aplicativos fianceiros no tempo livre
 
-🌱 &nbsp;I'm currently learning **Python | JS | C++**
+🌱 &nbsp;I'm currently learning **Python | JS | C | HTML/CSS**
 
 ### 🛠️ Tech Stack
 
